@@ -1,4 +1,4 @@
-# Instagram-User-Behavior-and-Influencer-Mapping-SQL--based-Project-
+# Instagram-User-Behavior-and-Influencer-Mapping-SQL
 
 ## 📊 Overview
 Performed SQL-based analysis on 1,500+ interactions across 80 users to derive engagement insights, influencer segmentation, and content performance patterns.
