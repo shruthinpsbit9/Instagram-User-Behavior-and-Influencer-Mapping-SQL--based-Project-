@@ -17,10 +17,10 @@ Performed SQL-based analysis on 1,500+ interactions across 80 users to derive en
 - SQL (Joins, GROUP BY, CASE, Aggregations)
 
 ##  Project Files
--  SQL Queries: analysis.sql  
--  Dataset: social_media_data.csv  
--  Full Documentation: analysis_full_documentation.docx  
--  Presentation: sql-analysis-presentation.pdf  
+-  SQL Queries: SQL Analysis.sql  
+-  Dataset: Instagram Dataset.csv  
+-  Full Documentation: Analysis (full documentation).docx  
+-  Presentation: Instagram User Behaviour Presentation.pdf  
 
  Use the presentation for quick understanding.  
  Use the full documentation for detailed SQL queries and outputs.
