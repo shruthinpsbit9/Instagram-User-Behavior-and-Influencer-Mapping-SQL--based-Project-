@@ -16,9 +16,9 @@ Performed SQL-based analysis on 1,500+ interactions across 80 users to derive en
 ##  Tools Used
 - SQL (Joins, GROUP BY, CASE, Aggregations)
 
-##  Project Files
--  SQL Queries: SQL Analysis.sql  
--  Dataset: Instagram Dataset.csv  
+##  Project Files  
+-  Dataset: Instagram Dataset.csv
+-  SQL Queries: SQL Analysis.sql
 -  Full Documentation: Analysis (full documentation).docx  
 -  Presentation: Instagram User Behaviour Presentation.pdf  
 
