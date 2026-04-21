@@ -19,8 +19,8 @@ Performed SQL-based analysis on 1,500+ interactions across 80 users to derive en
 ##  Project Files  
 -  Dataset: Instagram Dataset.csv
 -  SQL Queries: SQL Analysis.sql
--  Full Documentation: Analysis (full documentation).docx  
--  Presentation: Instagram User Behaviour Presentation.pdf  
+-  Full Documentation: Analysis Documentation.docx  
+-  Presentation: Presentation.pdf  
 
  Use the presentation for quick understanding.  
  Use the full documentation for detailed SQL queries and outputs.
